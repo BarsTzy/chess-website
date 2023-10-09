@@ -15,4 +15,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-пользователь/chess-website.git
+   git clone [https://github.com/ваш-пользователь/chess-website.git](https://github.com/BarsTzy/chess-website.git)https://github.com/BarsTzy/chess-website.git
